@@ -4,9 +4,9 @@ A **C# Windows Forms Banking Management System** designed to simulate real-world
 
 ---
 
-## 📌 Features
+### 📌 Features
 
-## 👤 User Roles
+### 👤 User Roles
 
 ### Customer
 
