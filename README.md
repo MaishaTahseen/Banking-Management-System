@@ -6,22 +6,22 @@ A **C# Windows Forms Banking Management System** designed to simulate real-world
 
 # 📌 Features
 
-## 👤 User Roles
+# 👤 User Roles
 
-### Customer
+# Customer
 
 * View account details and balance
 * Deposit and withdraw money
 * Apply for loans
 * Repay loans
 
-### Employee
+# Employee
 
 * Manage customer information
 * Review loan applications
 * Process transactions
 
-### Manager / Admin
+# Manager / Admin
 
 * Approve or reject loans
 * Manage employees and customers
